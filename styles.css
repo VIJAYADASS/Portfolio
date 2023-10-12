@@ -146,6 +146,8 @@ a:hover {
   transform: none;
 }
 
+/* Profile */
+
 #profile {
     display: flex;
     justify-content: center;
@@ -246,3 +248,5 @@ a:hover {
 .btn-container {
     gap: 1rem;
 }
+
+ 
