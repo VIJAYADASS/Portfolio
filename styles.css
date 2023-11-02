@@ -10,13 +10,10 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: darkolivegreen;
+  background-color:  #CB997E;
    
 }
 
-.h2{
-  color: #B4838D;
-}
 
 html {
   scroll-behavior: smooth;
@@ -61,7 +58,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: #522B5B;
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -201,11 +198,13 @@ section {
 
 .section__text__p1 {
   text-align: center;
+  color: black;
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 3rem;
   margin-bottom: 1rem;
+  color: #1B3358;
 }
 
 .title {
@@ -299,6 +298,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+   
 }
 
 .arrow {
@@ -333,7 +333,7 @@ section {
 }
   
 .experience-sub-title {
-    color: #B4838D;
+    color:#1B3358;
     font-weight: 600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
