@@ -10,10 +10,13 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color:  #CB997E;
+  background-color: rgb(216 180 254);
    
 }
 
+h1{
+  color: black;
+}
 
 html {
   scroll-behavior: smooth;
@@ -58,10 +61,10 @@ a {
 }
 
 a:hover {
-  color: #522B5B;
-  text-decoration: underline;
+  color: darkred;
+  text-decoration:underline;
   text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
+   
 }
 
 .logo {
@@ -198,13 +201,13 @@ section {
 
 .section__text__p1 {
   text-align: center;
-  color: black;
+  color: darkred;
 }
 
 .section__text__p2 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: #1B3358;
+  color: black;
 }
 
 .title {
