@@ -10,7 +10,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(216 180 254);
+  background-color: #B5C99A;
    
 }
 
@@ -313,7 +313,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex:1;
-  background: #FFE2C5;
+  background: #ddeaad;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -377,7 +377,7 @@ article .icon {
   
 .color-container {
     border-color: rgb(163, 163, 163);
-    background: #FFE2C5;
+    background: #ddeaad;
 }
   
 .project-img {
