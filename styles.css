@@ -58,6 +58,7 @@ a {
   color: black;
   text-decoration: none;
   text-decoration-color: white;
+   
 }
 
 a:hover {
@@ -108,13 +109,18 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: white;
+  background-color: #ddeaad;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
   transition: all 0.3 ease-in-out;
 }
-
+.menu-links:hover{
+  color: darkred;
+  text-decoration:none;
+  text-underline-offset: 1rem;
+   
+}
 .menu-links a {
   display: block;
   padding: 10px;
@@ -131,6 +137,7 @@ a:hover {
 
 .menu-links.open {
   max-height: 300px;
+   
 }
 
 .hamburger-icon.open span:first-child {
