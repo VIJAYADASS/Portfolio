@@ -109,7 +109,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: #ddeaad;
+  background-color: #D0D2E1;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
@@ -436,7 +436,7 @@ article .icon {
 }
   
 .contact-icon {
-    cursor: default;
+    cursor: pointer;
 }
   
 .email-icon {
@@ -451,5 +451,10 @@ footer {
   
   footer p {
     text-align: center;
+     
   }
+  
+   
+   
+ 
   
